@@ -17,13 +17,10 @@ RomRaider or ECUFlash with the matching definition.
 
 | Folder | Count | Contents |
 |--------|------:|----------|
-| `USDM/ JDM/ EDM/ ADM/` | 683 | Engine ROMs, by market and model |
+| `USDM/ JDM/ EDM/ ADM/` | 684 | Engine ROMs, by market and model |
 | `CDM/` | 8 | Canada-only calibrations, the rare 2.5 manual trims the US never got |
-| `_Modules/TCM/` | 64 | Automatic + CVT (Lineartronic) transmission ROMs |
+| `_Modules/TCM/` | 63 | Automatic + CVT (Lineartronic) transmission ROMs |
 | `_Modules/ETC/` | 3 | Electronic throttle control ROMs |
-| `_Modules/BIU/` | 7 | Body Integrated Unit (keyless / body control) |
-| `_Modules/CAMERA/` | 12 | EyeSight camera firmware (per-processor images) |
-| `_Modules/DMCM/` | 2 | Dual-mode clutch modules |
 | `_NewGen_RH850/` | 45 | 2019+ Impreza/Crosstrek (calibration region only) |
 
 These are the latest factory calibrations, checksum-validated and flash-ready.
